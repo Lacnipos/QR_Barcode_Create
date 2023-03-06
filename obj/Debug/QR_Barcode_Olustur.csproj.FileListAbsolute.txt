@@ -1,0 +1,11 @@
+C:\Users\Lacnipos\Desktop\QR_Barcode_Olustur-main\QR_Barcode_Olustur\bin\Debug\QR_Barcode_Olustur.exe
+C:\Users\Lacnipos\Desktop\QR_Barcode_Olustur-main\QR_Barcode_Olustur\bin\Debug\QR_Barcode_Olustur.pdb
+C:\Users\Lacnipos\Desktop\QR_Barcode_Olustur-main\QR_Barcode_Olustur\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Lacnipos\Desktop\QR_Barcode_Olustur-main\QR_Barcode_Olustur\obj\Debug\QR_Barcode_Olustur.csproj.AssemblyReference.cache
+C:\Users\Lacnipos\Desktop\QR_Barcode_Olustur-main\QR_Barcode_Olustur\obj\Debug\QR_Barcode_Olustur.Form1.resources
+C:\Users\Lacnipos\Desktop\QR_Barcode_Olustur-main\QR_Barcode_Olustur\obj\Debug\QR_Barcode_Olustur.Properties.Resources.resources
+C:\Users\Lacnipos\Desktop\QR_Barcode_Olustur-main\QR_Barcode_Olustur\obj\Debug\QR_Barcode_Olustur.csproj.GenerateResource.cache
+C:\Users\Lacnipos\Desktop\QR_Barcode_Olustur-main\QR_Barcode_Olustur\obj\Debug\QR_Barcode_Olustur.csproj.CoreCompileInputs.cache
+C:\Users\Lacnipos\Desktop\QR_Barcode_Olustur-main\QR_Barcode_Olustur\obj\Debug\QR_Barcode_Olustur.csproj.CopyComplete
+C:\Users\Lacnipos\Desktop\QR_Barcode_Olustur-main\QR_Barcode_Olustur\obj\Debug\QR_Barcode_Olustur.exe
+C:\Users\Lacnipos\Desktop\QR_Barcode_Olustur-main\QR_Barcode_Olustur\obj\Debug\QR_Barcode_Olustur.pdb
